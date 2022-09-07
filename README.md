@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raymond De La Rosa</h1>
 <h3 align="center">A web developer passionate</h3>
 
-- 💬 Ask me about **html, css, JavaScript, and React**
+- 💬 Ask me about **html, css, JavaScript and React**
 
 - 📫 How to reach me **raymonddrg03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raymond-algenys-de-la-rosa-guerrero-a8786021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raymond-algenys-de-la-rosa-guerrero-a8786021b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raymond algenys de la rosa guerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raymond algenys de la rosa guerrero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
