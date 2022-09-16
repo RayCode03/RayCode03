@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymond De La Rosa</h1>
 <h3 align="center">A web developer passionate</h3>
 
-- 💬 Ask me about **html, css, JavaScript and React**
+- 💬 Ask me about **HTML, CSS, JavaScript and React**
 
 - 📫 How to reach me **raymonddrg03@gmail.com**
 
